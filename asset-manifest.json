@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/California-React/static/css/main.e325071b.css",
+    "main.js": "/California-React/static/js/main.4cdeaf40.js",
+    "static/media/phone.png": "/California-React/static/media/phone.6da67c405cefc84eed72.png",
+    "static/media/laptop.png": "/California-React/static/media/laptop.f3145bda7d2680afd2d2.png",
+    "static/media/book.png": "/California-React/static/media/book.7f922610dc054ced5e6d.png",
+    "static/media/tablet.png": "/California-React/static/media/tablet.d86d40551b3295ff05b1.png",
+    "static/media/watch.png": "/California-React/static/media/watch.2a440c587cfdeb743f5b.png",
+    "static/media/laptop-and-phones.png": "/California-React/static/media/laptop-and-phones.3253ff29ffb9d89c8c46.png",
+    "static/media/ipad.png": "/California-React/static/media/ipad.b2d2e11150048acc9e43.png",
+    "static/media/laptop-and-one-phone.png": "/California-React/static/media/laptop-and-one-phone.905e87bc9f998b0b61d6.png",
+    "static/media/gadgets.png": "/California-React/static/media/gadgets.c09008d07053aab941cb.png",
+    "static/media/MacBookAirM1.png": "/California-React/static/media/MacBookAirM1.0e6e78672a80685499d2.png",
+    "static/media/MacBookPro13.png": "/California-React/static/media/MacBookPro13.238188a396933a99ed01.png",
+    "index.html": "/California-React/index.html",
+    "main.e325071b.css.map": "/California-React/static/css/main.e325071b.css.map",
+    "main.4cdeaf40.js.map": "/California-React/static/js/main.4cdeaf40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e325071b.css",
+    "static/js/main.4cdeaf40.js"
+  ]
+}

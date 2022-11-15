@@ -1,7 +1,6 @@
 import React from "react";
 import leftArrow from "../../../assets/Main/Slider/arrow-left.png";
 import rightArrow from "../../../assets/Main/Slider/arrow-right.png";
-import rectangle from "../../../assets/Main/Slider/rectangle.png";
 import style from './Slider.module.css';
 
 const Slider = (props) => {

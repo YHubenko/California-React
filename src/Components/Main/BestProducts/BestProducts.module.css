@@ -1,0 +1,29 @@
+.wrapper {
+    width: 1440px;
+    height: 663px;
+    margin: 0 auto;
+}
+.textBlock {
+    width: 1294px;
+    height: 98px;
+    margin: 65px 73px 50px;
+    text-align: center;
+}
+.title {
+    width: 529px;
+    height: 53px;
+    font-family: "Readex Pro", sans-serif;
+    font-size: 42px;
+    font-weight: 400;
+    text-align: center;
+    margin: 19px 382px 0;
+}
+.description {
+    width: 422px;
+    height: 17px;
+    text-align: center;
+    margin: 9px 436px;
+    font-family: "Readex Pro", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+}

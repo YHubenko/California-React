@@ -1,0 +1,36 @@
+.wrapper {
+    width: 1294px;
+    margin: 0 28px 28px 28px;
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    gap: 28px;
+}
+.image {
+    width: 247px;
+    height: 214px;
+    margin: 28px;
+}
+.name {
+    font-family: "Readex Pro", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    width: 240px;
+    height: 28px;
+    margin: 9px 0;
+}
+.description {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #4B4B4B;
+    width: 261px;
+    height: 34px;
+}
+.price {
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    width: 133px;
+    height: 22px;
+    margin-top: 25px;
+}

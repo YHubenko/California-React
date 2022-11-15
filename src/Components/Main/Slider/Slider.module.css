@@ -1,0 +1,41 @@
+.wrapper {
+    width: 1294px;
+    height: 550px;
+    margin: 28px auto 0;
+    background: url("../../../../src/assets/Main/Slider/phone.png") right no-repeat;
+    background-color: #DCE5E2;
+    border-radius: 32px;
+    display: grid;
+    grid-template-columns: 50px 1194px 50px;
+}
+.arrow {
+    width: 14px;
+    height: 26px;
+    margin: 262px 18px;
+}
+.arrow:hover {
+    cursor: pointer;
+}
+.title {
+    margin: 145px 132px 100px 20px;
+    font-family: 'Readex Pro', sans-serif;
+    font-weight: 400;
+    font-size: 60px;
+    width: 588px;
+    height: 140px;
+}
+.btn {
+    margin-left: 20px;
+    width: 170px;
+    height: 50px;
+    border-radius: 200px;
+    background: none;
+    border: 1px solid black;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.btn:hover {
+    cursor: pointer;
+    background-color: #cedad6;
+}

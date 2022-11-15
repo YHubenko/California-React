@@ -1,0 +1,61 @@
+.wrapper {
+    width: 1294px;
+    height: 453px;
+    margin: 56px 45px 28px;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    gap: 28px;
+}
+.product {
+    background-color: #F8F9FA;
+    border-radius: 16px;
+}
+.description {
+    width: 150px;
+    height: 17px;
+    margin: 41px auto 0;
+    text-align: center;
+    font-family: "Readex Pro", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+}
+.name {
+    width: 260px;
+    height: 35px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Readex Pro", sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+}
+.btn {
+    width: 190px;
+    height: 50px;
+    border-radius: 200px;
+    border: 1px solid black;
+    background: none;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin: 30px 111px;
+}
+.btn:hover {
+    cursor: pointer;
+    background-color: #cedad6;
+}
+.watch {
+    margin: 30px 77px 0;
+    width: 259px;
+    height: 250px;
+}
+.phones {
+    margin: 30px 60px 0;
+    width: 294px;
+    height: 250px;
+}
+.laptop {
+    margin: 30px 29px 0;
+    width: 355px;
+    height: 250px;
+}

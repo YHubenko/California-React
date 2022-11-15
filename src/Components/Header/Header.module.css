@@ -1,0 +1,12 @@
+.wrapper {
+    width: 1294px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.logo {
+    width: 170px;
+    height: 21px;
+    margin: 30px 0 29px;
+}

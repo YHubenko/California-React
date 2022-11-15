@@ -1,0 +1,51 @@
+.wrapper {
+    width: 1440px;
+    height: 378px;
+    margin: 0 auto;
+    background-color: #F8F9FA;
+}
+.footerTop {
+    width: 1294px;
+    height: 191px;
+    margin: 0 auto 80px;
+    display: grid;
+    grid-template-columns: 394px repeat(4, 197px);
+    gap: 28px;
+    position: relative;
+    top: 45px;
+}
+.divider {
+    width: 1350px;
+    height: 1px;
+    margin: 0 45px;
+}
+.footerBottom {
+    width: 1350px;
+    height: 78px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.link {
+    margin: 25px 10px 0;
+}
+.link a {
+    color: #000000;
+    text-decoration: none;
+}
+.linkFirstPart {
+    font-family: "Readex Pro", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.linkSecondPart {
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.arrow {
+    width: 21px;
+    height: 18px;
+    position: relative;
+    top: 3px;
+}

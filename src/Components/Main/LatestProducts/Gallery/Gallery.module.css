@@ -1,0 +1,105 @@
+.wrapper {
+    position: relative;
+    width: 1294px;
+    height: 792px;
+    display: grid;
+    margin: 50px 28px 0;
+    grid-template-columns: 639px 312px 312px;
+    grid-template-rows: 511px 270px;
+    gap: 20px;
+}
+.wrapper .block:nth-child(2) {
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column: 2;
+}
+.wrapper .block:nth-child(3) {
+    grid-column: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+.wrapper .block {
+    box-shadow: -5px 8px 35px rgba(0, 0, 0, 0.25);
+}
+.laptop {
+    width: 500px;
+    height: 377px;
+    margin: 0 50px;
+}
+.laptopText {
+    width: 555px;
+    height: 95px;
+    margin: 0 auto;
+    text-align: right;
+}
+.laptopName,
+.phoneName,
+.tabletName,
+.watchName {
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+.laptopDescription {
+    width: 192px;
+    font-family: "Readex Pro", sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    float: right;
+}
+.phone {
+    width: 296px;
+    height: 367px;
+    margin: 144px 0 0 16px;
+}
+.phoneText {
+    width: 100%;
+    height: 95px;
+    text-align: center;
+    margin-top: 42px;
+}
+.phoneDescription {
+    width: 250px;
+    margin: 0 auto;
+    font-family: "Readex Pro", sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+}
+.tablet {
+    width: 312px;
+    height: 425px;
+    margin-top: 42px;
+}
+.tabletText {
+    width: 100%;
+    height: 95px;
+    margin-top: 115px;
+    text-align: center;
+}
+.tabletDescription {
+    width: 233px;
+    height: 77px;
+    margin: 0 auto;
+    font-family: "Readex Pro", sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+}
+.watch {
+    width: 381px;
+    height: 270px;
+    margin-left: 42px;
+}
+.block:nth-child(4) {
+    display: flex;
+}
+.watchText {
+    width: 174px;
+    height: 95px;
+    margin: 87px 0;
+    text-align: right;
+}
+.watchDescription {
+    font-family: "Readex Pro", sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+}

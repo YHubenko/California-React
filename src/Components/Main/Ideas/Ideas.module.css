@@ -1,0 +1,79 @@
+.wrapper {
+    width: 1350px;
+    height: 728px;
+    margin: 0 auto;
+}
+.titleBlock {
+    width: 1294px;
+    height: 78px;
+    margin: 48px auto;
+    text-align: center;
+}
+.title {
+    font-family: "Readex Pro", sans-serif;
+    width: 497px;
+    height: 53px;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 42px;
+    font-weight: 400;
+}
+.description {
+    width: 422px;
+    height: 17px;
+    text-align: center;
+    margin: 0 auto;
+    font-family: "Readex Pro", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+}
+.content {
+    width: 1294px;
+    height: 420px;
+    margin: 56px auto;
+    display: flex;
+}
+.img {
+    width: 620px;
+    height: 420px;
+    border-radius: 16px;
+}
+.ideas {
+    width: 639px;
+    height: 292px;
+    text-align: left;
+    margin: 0 28px 0 35px;
+}
+.idea {
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: left;
+    margin: 18px 0;
+}
+.link {
+    width: 109px;
+    height: 28px;
+    margin: 50px auto;
+}
+.link:hover {
+    cursor: pointer;
+}
+.link a {
+    color: #000;
+    text-decoration: none;
+}
+.link span {
+    width: 79px;
+    height: 29px;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+}
+.link img {
+    width: 30px;
+    height: 28px;
+    position: relative;
+    top: 6px;
+}
